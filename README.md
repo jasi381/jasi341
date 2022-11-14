@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jasmeet Singh  
 - 👀 I’m interested in Native Android App Development
-- 🌱 I’m currently learning Kotlin & Node Js
+- 🌱 I’m currently learning Kotlin 
 
 
 <!---
